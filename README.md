@@ -2,7 +2,7 @@
 
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). 
 
-### The challenge
+## The challenge
 
 Users should be able to:
 
@@ -11,9 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add solution URL here](https://karlsbarkley.github.io/FrontendMentor-ResultsSummaryComponent/)
-
-## My process
+- [Live Site URL](https://karlsbarkley.github.io/FrontendMentor-ResultsSummaryComponent/)
 
 ### Built with
 
